@@ -1,0 +1,1 @@
+The data used for this research includes initial bed topography from [MEaSUREs BedMachine Antarctica, Version 3](https://nsidc.org/data/nsidc-0756/versions/3) and free-air gravity anomaly from [NASA's Operation IceBridge](https://icebridge.gsfc.nasa.gov/).
